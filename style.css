@@ -1,0 +1,36 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #F99417
+    }
+ 
+h2{
+    font-size: 20px;
+    text-align: center;
+    color: #1eb40d
+    }    
+
+h3{
+    font-size: 15px;
+    color: #1eb40d
+    }   
+    p{
+    font-size: 10px;
+    text-align: left;
+    font-family: Helvetica, sans-serif;
+    color: #4ad13b
+    }
+
+    a{
+        font-size: 10px;
+        text-align: left;
+        font-family: Helvetica, sans-serif;
+        color: #3bc5d1
+        }
+
+    img{font-size: medium}
+
+    body {
+    background-color: #4D4C7D;
+    margin: 5px
+    }
